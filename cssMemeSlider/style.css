@@ -28,6 +28,8 @@
     width:100%;
     height:100%;
     border-radius: 5px;
+    opacity: 1;
+    transition:0.3s;
 }
 .slider-wrapper__content{
     width:95%;
@@ -96,3 +98,4 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     bottom:30px;
 }
+
